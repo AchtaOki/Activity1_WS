@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Activite1_WebService/Activite1_WebService.iml" filepath="$PROJECT_DIR$/Activite1_WebService/Activite1_WebService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Client_Activite1_WS_java/Client_Activite1_WS.iml" filepath="$PROJECT_DIR$/Client_Activite1_WS_java/Client_Activite1_WS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/activity1WS.iml" filepath="$PROJECT_DIR$/.idea/activity1WS.iml" />
+    </modules>
+  </component>
+</project>
